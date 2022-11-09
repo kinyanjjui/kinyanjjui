@@ -1,7 +1,7 @@
 - Hello, I’m John Kinyanjui
 - I’m interested in Machine Learning and Artificial Intelligence using Python  
-- I’m currently learning implementation of deep learnig techniques and cloud platform technologies.
-- I’m looking to collaborate on open-source projects to build upon my foundation and network
+- I’m currently learning implementation of deep learning techniques and cloud platform technologies, specifically GCP and Azure.
+- I’m looking to collaborate on open-source projects to build upon my foundation and create meaningful networks.
 - You can reach me on: [LinkedIn](https://www.linkedin.com/in/jonn-kinyanjui/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kinyanjjui&theme=tokyonight)](https://git.io/streak-stats)
